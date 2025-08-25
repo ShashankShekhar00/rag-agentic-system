@@ -1,0 +1,7 @@
+LangGraph
+LangChain
+numpy
+pandas
+requests
+flask
+python-dotenv
